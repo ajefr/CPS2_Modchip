@@ -1,7 +1,7 @@
 # CPS2 Modchip
 Modchip for suicide free CPS2
 
-Burn on a PIC12F675 the HEX of your romset.
+Burn on a PIC12F675 or PIC12F629 the HEX file of your romset.
 
 # Pinout for the PIC :
 
