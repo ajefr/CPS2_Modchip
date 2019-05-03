@@ -89,7 +89,6 @@ Burn on a PIC12F675 or PIC12F629 the HEX file of your romset.
 |   ecofghtrh  |   Eco Fighters (Hispanic 931203)  |
 |   ecofghtru  |   Eco Fighters (USA 940215)  |
 |   ecofghtru1  |   Eco Fighters (USA 931203)  |
-|   gigaman2  |   Giga Man 2: The Power Fighters (bootleg of Mega Man 2: The Power Fighters)  |
 |   gigawing  |   Giga Wing (USA 990222)  |
 |   gigawinga  |   Giga Wing (Asia 990222)  |
 |   gigawingb  |   Giga Wing (Brazil 990222)  |
@@ -263,7 +262,6 @@ Burn on a PIC12F675 or PIC12F629 the HEX file of your romset.
 |   xmcotaj3  |   X-Men: Children of the Atom (Japan 941217)  |
 |   xmcotajr  |   X-Men: Children of the Atom (Japan 941208 rent version)  |
 |   xmcotar1  |   X-Men: Children of the Atom (Euro 950105)  |
-|   xmcotar1d  |   X-Men: Children of the Atom (Euro 950105 Phoenix Edition) (bootleg)  |
 |   xmcotau  |   X-Men: Children of the Atom (USA 950105)  |
 |   xmvsf  |   X-Men Vs. Street Fighter (Euro 961004)  |
 |   xmvsfa  |   X-Men Vs. Street Fighter (Asia 961023)  |
@@ -278,7 +276,6 @@ Burn on a PIC12F675 or PIC12F629 the HEX file of your romset.
 |   xmvsfjr3  |   X-Men Vs. Street Fighter (Japan 960909)  |
 |   xmvsfr1  |   X-Men Vs. Street Fighter (Euro 960910)  |
 |   xmvsfu  |   X-Men Vs. Street Fighter (USA 961023)  |
-|   xmvsfu1d  |   X-Men Vs. Street Fighter (USA 961004 Phoenix Edition) (bootleg)  |
 |   xmvsfur1  |   X-Men Vs. Street Fighter (USA 961004)  |
 |   xmvsfur2  |   X-Men Vs. Street Fighter (USA 960910)  |
 
