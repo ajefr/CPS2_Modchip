@@ -247,6 +247,7 @@ Burn on a PIC12F675 or PIC12F629 the HEX file of your romset.
 |   vsav  |   Vampire Savior: The Lord of Vampire (Euro 970519)  |
 |   vsav2  |   Vampire Savior 2: The Lord of Vampire (Japan 970913)  |
 |   vsava  |   Vampire Savior: The Lord of Vampire (Asia 970519)  |
+|   vsavb  |   Vampire Savior: The Lord of Vampire (Brazil 970519)  |
 |   vsavh  |   Vampire Savior: The Lord of Vampire (Hispanic 970519)  |
 |   vsavj  |   Vampire Savior: The Lord of Vampire (Japan 970519)  |
 |   vsavu  |   Vampire Savior: The Lord of Vampire (USA 970519)  |
