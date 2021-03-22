@@ -159,6 +159,7 @@ Burn on a PIC12F675 or PIC12F629 the HEX file of your romset.
 |   ringdest  |   Ring of Destruction: Slammasters II (Euro 940902)  |
 |   ringdesta  |   Ring of Destruction: Slammasters II (Asia 940831)  |
 |   ringdesth  |   Ring of Destruction: Slammasters II (Hispanic 940902)  |
+|   ringdestb  |   Ring of Destruction: Slammasters II (Brazil 940902)  |
 |   rmancp2j  |   Rockman: The Power Battle (CPS2  |
 |   rockman2j  |   Rockman 2: The Power Fighters (Japan 960708)  |
 |   sfa  |   Street Fighter Alpha: Warriors' Dreams (Euro 950727)  |
