@@ -34,6 +34,7 @@ Burn on a PIC12F675 or PIC12F629 the HEX file of your romset.
 |   armwarr1  |   Armored Warriors (Euro 941011)  |
 |   armwaru  |   Armored Warriors (USA 941024)  |
 |   armwaru1  |   Armored Warriors (USA 940920)  |
+|   armwarb  |   Armored Warriors (Brazil 941024)  |
 |   avsp  |   Alien vs. Predator (Euro 940520)  |
 |   avspa  |   Alien vs. Predator (Asia 940520)  |
 |   avsph  |   Alien vs. Predator (Hispanic 940520)  |
